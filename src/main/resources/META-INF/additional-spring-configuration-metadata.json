@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "hikariDataSource.setMaximumPoolSize(10);",
+  "type": "java.lang.String",
+  "description": "A description for 'hikariDataSource.setMaximumPoolSize(10);'"
+}]}
